@@ -271,7 +271,7 @@ function parseLevel(str){
 }
 
 function countdown(){
-  var c=q('game').getContext('2d'),i=1,id;
+  var c=q('game').getContext('2d'),i=3,id;
   c.textAlign='center';
   c.textBaseline='middle';
   c.font='300px sans-serif';
